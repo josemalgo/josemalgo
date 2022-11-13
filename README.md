@@ -1,20 +1,20 @@
 # Hi 👋, I'm José María Álvarez
 ### a passionate web developer from Barcelona
 
-`import { SoftwareDeveloper } from '@josemalgo';
+    import { SoftwareDeveloper } from '@josemalgo';
 
-class Bio extends SoftwareDeveloper {
-  name     = 'José María Álvarez';
-  title    = 'Software Engineer';
-  location = 'Barcelona, ES';
-  email    = 'josemaalgo.trabajo@gmail.com';
-}
+    class Bio extends SoftwareDeveloper {
+      name     = 'José María Álvarez';
+      title    = 'Software Engineer';
+      location = 'Barcelona, ES';
+      email    = 'josemaalgo.trabajo@gmail.com';
+    }
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'C#', 'HTML5', 'CSS3'];
-  databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['React', 'Express', 'NodeJS', 'Jest'];
-}
+    class Skills extends SoftwareDeveloper {
+      languages  = ['JavaScript', 'C#', 'HTML5', 'CSS3'];
+      databases  = ['MySQL', 'MongoDB'];
+      frameworks = ['React', 'Express', 'NodeJS', 'Jest'];
+    }
 
 
 - 💬 Ask me about **Javascript, NodeJS, HTML5, CSS3**
