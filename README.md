@@ -1,5 +1,5 @@
 # Hi 👋, I'm José María Álvarez
-## a craftman web developer from Barcelona
+### a craftman web developer from Barcelona
 
 - 🌱 I’m currently learning **REACT, Svelte**
 
