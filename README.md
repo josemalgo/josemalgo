@@ -5,7 +5,7 @@
 
     class Bio extends SoftwareDeveloper {
       name     = 'José María Álvarez';
-      title    = 'Software Engineer';
+      title    = 'Developer';
       location = 'Barcelona, ES';
       email    = 'josemaalgo.trabajo@gmail.com';
     }
