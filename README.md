@@ -1,5 +1,5 @@
 # Hi 👋, I'm José María Álvarez
-### a passionate web developer from Barcelona
+### a web developer from Barcelona
 
     import { SoftwareDeveloper } from '@josemalgo';
 
