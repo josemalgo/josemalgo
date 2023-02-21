@@ -21,12 +21,6 @@
 
 ##### I'm currently work on **my Node, Express and React skills**
 
-##### Technologies i'm interested to learn
-- Next.js
-- Cloud computing
-- Svelte
-- Graphql
-
 ##### Outside of coding I enjoy
 - Boxing and basketball
 - Read
